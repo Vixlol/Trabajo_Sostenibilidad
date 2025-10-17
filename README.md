@@ -10,3 +10,5 @@ Funcionamiento de sistemas-civilizaciones: análisis de una civilización real o
 Economía circular y acciones sostenibles: descripción de las características de la economía circular y ejemplos de actuaciones sostenibles en los ámbitos personal y profesional.
 
 El sector de la informática y la sostenibilidad: análisis de este sector en relación con los sistemas materiales y la economía circular.
+
+Objetivos:
