@@ -1,0 +1,1 @@
+Funcionamiento de [Sistemas-civilizaciones](Sistemas-civilizaciones.md).
