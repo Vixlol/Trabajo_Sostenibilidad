@@ -12,3 +12,7 @@ Economía circular y acciones sostenibles: descripción de las características 
 El sector de la informática y la sostenibilidad: análisis de este sector en relación con los sistemas materiales y la economía circular.
 
 Objetivos:
+
+    - Analizar sobre los romanos (como obtenian materias, energía y sus condiciones adecuadas paara la vida).
+    - Elegir acción personal o profesional sostenible.
+    - El sector de la informática y la sostenibilidad.
