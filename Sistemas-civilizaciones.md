@@ -46,3 +46,20 @@ La civilización romana puede entenderse como un **sistema socioecológico** con
 - Transporte: carros y embarcaciones a vela o remo.
 
 <!-- por completar mas ejemplos si eso -->
+## 4. Sostenibilidad del sistema
+El sistema romano, a pesar de su eficacia, dependía de un equilibrio constante entre los recursos naturales, la población y la expansión territorial. Su mantenimiento exigía una gestión continua de los recursos y una red de intercambio entre las provincias del Imperio.
+
+### **Gestión de los recursos naturales**
+- La agricultura intensiva **agotó suelos** y provocó erosión en varias regiones.
+- La **tala masiva** causó deforestación en gran parte del Mediterráneo.
+- La minería intensiva llevó al **agotamiento** de metales clave.
+
+### **Dependencia económica y territorial**
+- Roma dependía del grano egipcio y del aceite hispano para alimentarse.
+- Las rutas comerciales exigían constante protección militar.
+- Al cesar las conquistas, disminuyeron recursos, impuestos y esclavos.
+
+### **Impactos urbanos y ambientales**
+- El crecimiento urbano generó residuos y contaminación por plomo.
+- Las obras públicas requerían un mantenimiento costoso y continuo.
+- La alta demanda de recursos presionó el entorno natural.
