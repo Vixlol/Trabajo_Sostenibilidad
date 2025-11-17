@@ -46,6 +46,8 @@ La civilización romana puede entenderse como un **sistema socioecológico** con
 - Transporte: carros y embarcaciones a vela o remo.
 
 <!-- por completar mas ejemplos si eso -->
+---
+
 ## 4. Sostenibilidad del sistema
 El sistema romano, a pesar de su eficacia, dependía de un equilibrio constante entre los recursos naturales, la población y la expansión territorial. Su mantenimiento exigía una gestión continua de los recursos y una red de intercambio entre las provincias del Imperio.
 
@@ -60,6 +62,30 @@ El sistema romano, a pesar de su eficacia, dependía de un equilibrio constante 
 - Al cesar las conquistas, disminuyeron recursos, impuestos y esclavos.
 
 ### **Impactos urbanos y ambientales**
-- El crecimiento urbano generó residuos y contaminación por plomo.
+- El crecimiento urbano generó residuos y contaminación por plomo y mercurio.
 - Las obras públicas requerían un mantenimiento costoso y continuo.
+- **Deforestación** por demanda de leña, construcción naval y expansión agrícola.
+- **Erosión del suelo** y pérdida de fertilidad en zonas agrícolas (debido a la deforestación y prácticas agrícolas intensivas).
 - La alta demanda de recursos presionó el entorno natural.
+
+---
+<!-- Falta por desarrollar aun mas -->
+## 5. Condiciones adecuadas para la vida
+
+### **Suministro y saneamiento**
+- Red de **agua potable** y fuentes públicas.
+- **Termas**: higiene, bienestar y socialización.
+- **Alcantarillado urbano** y letrinas públicas.
+
+### **Vivienda**
+- **Viviendas Urbanas:**
+    - <u>Domus</u>: casas con patios, calefacción y cisternas.
+    - <u>Insulae</u>: edificios para clases populares, más densos y con riesgos de incendio.
+- **Viviendas de Campo:**
+    - <u>Villas</u>: Residencias de Campo
+    - <u>Casae</u>: Viviendas primitivas
+
+### **Salud y alimentación**
+- Dieta mediterránea equilibrada (pan, aceite, vino, legumbres).
+- Medicina romana (influencia de Galeno y la tradición griega).
+- Protección militar y administración pública.
