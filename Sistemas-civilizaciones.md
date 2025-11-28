@@ -82,8 +82,8 @@ El sistema romano, a pesar de su eficacia, dependía de un equilibrio constante 
     - <u>Domus</u>: casas con patios, calefacción y cisternas.
     - <u>Insulae</u>: edificios para clases populares, más densos y con riesgos de incendio.
 - **Viviendas de Campo:**
-    - <u>Villas</u>: Residencias de Campo
-    - <u>Casae</u>: Viviendas primitivas
+    - <u>Villae</u>: Residencias de Campo: grandes haciendas rurales que servían como centro de explotación agrícola y ganadera para la élite terrateniente.
+    - <u>Casae</u>: Viviendas primitivas: Usadas por clases bajas y esclavos, construidas con medios muy precarios.
 
 ### **Salud y alimentación**
 - Dieta mediterránea equilibrada (pan, aceite, vino, legumbres).
