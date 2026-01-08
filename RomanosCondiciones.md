@@ -20,7 +20,8 @@
 - **Viviendas de Campo:**
     - <u>Villae</u>: Residencias de Campo: grandes haciendas rurales que servían como centro de explotación agrícola y ganadera para la élite terrateniente.
     - <u>Casae</u>: Viviendas primitivas: Usadas por clases bajas y esclavos, construidas con medios muy precarios.
-![Viviendas Romana](casaRomana.png)
+    
+![Viviendas Romana](casaRomana.PNG)
 
 ### **Salud y alimentación**
 - Dieta mediterránea equilibrada (pan, aceite, vino, legumbres).
