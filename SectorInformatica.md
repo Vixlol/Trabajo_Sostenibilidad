@@ -62,4 +62,5 @@ El sector TIC es uno de los principales generadores de residuos eléctricos y el
 ![e-waste](e-waste.png)
 
 
-<!-- Falta especificar la relación con la economia circular -->
+### Economía circular en el sector TIC
+La economía circular en el sector de las tecnologías de la información y comunicación (TIC) busca reducir el impacto ambiental mediante la **reutilización, reparación y reciclaje de dispositivos electrónicos**. En lugar de producir y desechar continuamente nuevos equipos, se fomentan prácticas como la recuperación de componentes, la actualización de hardware, el reacondicionamiento de computadoras y el reciclaje de materiales valiosos. De este modo, se aprovechan los recursos existentes, se minimizan los residuos electrónicos y se disminuye la extracción de materias primas, promoviendo un uso más sostenible y responsable de la tecnología.

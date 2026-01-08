@@ -21,4 +21,15 @@ En un mundo cada vez más digitalizado, donde la tecnología está presente en c
 
 
 ## Gabriel - Recolección y reparación de computadoras viejas
-Reparar y reutilizar computadoras viejas es una excelente manera de: reducir los residuos electrónicos, promover el uso de equipos tecnologicos que aun están en buen estado y cuidar el medio ambiente.
+La recolección y reparación de computadoras viejas es una acción sostenible clave dentro del sector de la informática, ya que permite **reducir la cantidad de residuos electrónicos (e-waste)** y **alargar la vida útil de los equipos tecnológicos**. Muchos ordenadores que se descartan aún pueden funcionar correctamente con pequeñas reparaciones, actualizaciones de software o reemplazo de componentes básicos.
+
+Desde el punto de vista **ambiental**, esta práctica evita que dispositivos electrónicos terminen en vertederos, donde pueden liberar sustancias tóxicas como plomo, mercurio o cadmio, contaminando el suelo y el agua. Además, reduce la necesidad de fabricar nuevos equipos, lo que disminuye la extracción de materias primas, el consumo energético y las emisiones de CO₂ asociadas a la producción de hardware.
+
+En la dimensión **social**, la reutilización tecnológica contribuye a reducir la brecha digital. Las computadoras reparadas pueden donarse a escuelas, asociaciones o familias con menos recursos, facilitando el acceso a la educación, la información y las tecnologías digitales. También fomenta el aprendizaje de habilidades técnicas relacionadas con el mantenimiento y la reparación de equipos informáticos.
+
+Desde el punto de vista **económico**, reparar y reutilizar computadoras supone un ahorro significativo frente a la compra de equipos nuevos. Tanto a nivel personal como institucional, esta acción reduce gastos y permite aprovechar al máximo los recursos existentes. Además, puede generar oportunidades económicas mediante la venta de equipos reacondicionados o la creación de pequeños servicios de reparación.
+
+Esta acción se relaciona directamente con el concepto de **economía circular**, ya que promueve la reutilización, la reparación y el aprovechamiento de materiales, en lugar de seguir un modelo de consumo lineal basado en “usar y tirar”. Adoptar este tipo de prácticas en el ámbito de la informática es fundamental para avanzar hacia un modelo tecnológico más responsable y sostenible.
+
+### Reflexión final
+Reparar una computadora en lugar de desecharla es una acción sencilla, pero con un impacto ambiental, social y económico muy positivo. En un mundo cada vez más digitalizado, la reutilización tecnológica se convierte en una herramienta esencial para reducir residuos, ahorrar recursos y promover un uso más consciente de la tecnología.
