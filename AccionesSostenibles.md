@@ -17,8 +17,19 @@ Pequeñas acciones como desenchufar los dispositivos cuando no se utilizan puede
 
 En un mundo cada vez más digitalizado, donde la tecnología está presente en casi todos los ámbitos de nuestra vida, es importante ser conscientes del consumo energético asociado al uso de los equipos electrónicos.
 
-## Transporte Publico (Victor)
+---
 
+## Transporte Público (Victor)
+El transporte público es una de las acciones sostenibles más importantes en las ciudades actuales, ya que permite desplazar a un gran número de personas utilizando menos recursos y generando menos contaminación que el transporte privado. Al reducir el número de vehículos en circulación, contribuye a disminuir las emisiones de gases contaminantes, el consumo energético y la congestión urbana, favoreciendo un entorno más saludable y eficiente.
+
+El transporte público es una acción sostenible importante tanto para el ámbito personal como el profesional:
+
+**Ámbito personal**:
+- El uso del transporte público supone una reducción clara del impacto ambiental individual, ya que disminuye las emisiones de CO₂ y el consumo de recursos frente al uso del coche privado. También tiene ventajas económicas, al reducir gastos como combustible, mantenimiento o aparcamiento, y favorece una movilidad más accesible para toda la población.
+
+- Falta por completar
+
+---
 
 ## Gabriel - Recolección y reparación de computadoras viejas
 La recolección y reparación de computadoras viejas es una acción sostenible clave dentro del sector de la informática, ya que permite **reducir la cantidad de residuos electrónicos (e-waste)** y **alargar la vida útil de los equipos tecnológicos**. Muchos ordenadores que se descartan aún pueden funcionar correctamente con pequeñas reparaciones, actualizaciones de software o reemplazo de componentes básicos.
