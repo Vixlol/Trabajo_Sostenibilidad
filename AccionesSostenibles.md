@@ -27,7 +27,15 @@ El transporte público es una acción sostenible importante tanto para el ámbit
 **Ámbito personal**:
 - El uso del transporte público supone una reducción clara del impacto ambiental individual, ya que disminuye las emisiones de CO₂ y el consumo de recursos frente al uso del coche privado. También tiene ventajas económicas, al reducir gastos como combustible, mantenimiento o aparcamiento, y favorece una movilidad más accesible para toda la población.
 
-- Falta por completar
+- Sin embargo, no siempre es una alternativa realista. La falta de frecuencia (sobre todos en ciudades pequeñas), la mala conexión entre zonas o la poca flexibilidad horaria hacen que muchas personas no puedan depender exclusivamente del transporte público. Además, problemas como la saturación, la comodidad o la sensación de inseguridad influyen negativamente en la decisión de usarlo.
+
+**Ámbito profesional**:
+- En el ámbito profesional, fomentar el transporte público contribuye a reducir la huella ambiental de las empresas, especialmente en los desplazamientos diarios de los trabajadores. También puede mejorar la imagen corporativa y facilitar el acceso al empleo, sobre todo en zonas urbanas bien comunicadas.
+
+- Aun así, existen limitaciones importantes. No todos los empleados viven en áreas con buen acceso al transporte público ni tienen horarios compatibles con este. Además, las empresas dependen de infraestructuras externas que no controlan, lo que puede generar desigualdades entre trabajadores y dificultades organizativas (sobre todo debido a los retrasos).
+
+### Reflexión final
+El uso de transporte público es una práctica sostenible esencial para promover una movilidad más consciente, pero no se puede ver como una solución que sirva para todos. Su impacto positivo depende de la calidad del servicio y de las circunstancias personales y laborales de las personas. Para que sea verdaderamente eficaz y justo, necesita mejoras en la infraestructura, una planificación urbana adecuada y políticas que hagan más fácil su utilización por parte de toda la población.
 
 ---
 
