@@ -1,0 +1,144 @@
+/* Variables básicas */
+:root {
+  --primary: #4a90e2;
+  --bg-body: #f4f4f4;
+  --bg-panel: #ffffff;
+  --text-main: #333333;
+  --border: #dddddd;
+}
+
+/* Modo oscuro simple */
+body.dark-mode {
+  --bg-body: #1a1a1a;
+  --bg-panel: #2d2d2d;
+  --text-main: #f0f0f0;
+  --border: #444;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: var(--bg-body);
+  color: var(--text-main);
+}
+
+/* Cabecera */
+.header {
+  background-color: var(--bg-panel);
+  border-bottom: 1px solid var(--border);
+  padding: 15px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+button {
+  padding: 8px 15px;
+  cursor: pointer;
+  background-color: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+/* Layout Principal */
+.container {
+  display: flex;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+  gap: 20px;
+}
+
+/* Sidebar Izquierda */
+.sidebar {
+  width: 250px;
+  background: var(--bg-panel);
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  height: fit-content;
+}
+
+.nav-item {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: var(--text-main);
+  border-bottom: 1px solid var(--border);
+}
+
+.nav-item:hover {
+  background-color: rgba(0,0,0,0.05);
+  color: var(--primary);
+}
+
+.nav-sub {
+  margin-left: 20px;
+  font-size: 0.9em;
+}
+
+/* Contenido Central */
+.main-content {
+  flex: 1;
+  background: var(--bg-panel);
+  padding: 30px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  min-height: 500px;
+}
+
+/* Estilos para el Markdown renderizado */
+.main-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.main-content h1 { color: var(--primary); border-bottom: 2px solid var(--border); padding-bottom: 10px; }
+.main-content h2 { margin-top: 30px; border-bottom: 1px solid var(--border); }
+.main-content table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+.main-content th, .main-content td { border: 1px solid var(--border); padding: 10px; }
+.main-content blockquote { border-left: 4px solid var(--primary); margin: 0; padding-left: 15px; color: #666; }
+
+/* Sidebar Derecha (Índice) */
+.toc-sidebar {
+  width: 200px;
+  background: var(--bg-panel);
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  height: fit-content;
+}
+
+.toc-link {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: #666;
+}
+
+.toc-link:hover {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+/* Responsive básico */
+@media (max-width: 800px) {
+  .container { flex-direction: column; }
+  .sidebar, .toc-sidebar { width: 100%; }
+}
