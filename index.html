@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <title>Trabajo de Sostenibilidad</title>
+  <meta name="description" content="Proyecto: Sistemas-Civilizaciones (Roma), Economía circular y sostenibilidad en el sector TIC." />
+
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- Markdown + Sanitizer -->
+  <script defer src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#content">Saltar al contenido</a>
+
+  <header class="topbar">
+    <div class="topbar__inner">
+      <button class="iconbtn" id="navToggle" aria-label="Abrir menú" aria-controls="sidebar" aria-expanded="false">
+        <span class="iconbtn__bars" aria-hidden="true"></span>
+      </button>
+
+      <div class="brand" role="banner">
+        <div class="brand__mark" aria-hidden="true">♻️</div>
+        <div class="brand__text">
+          <div class="brand__title">Trabajo de Sostenibilidad</div>
+          <div class="brand__subtitle">Sistemas • Economía circular • TIC</div>
+        </div>
+      </div>
+
+      <div class="topbar__actions">
+        <label class="search" for="q">
+          <span class="search__icon" aria-hidden="true">⌕</span>
+          <input id="q" type="search" placeholder="Buscar en el contenido…" autocomplete="off" />
+        </label>
+        <button class="pill" id="themeToggle" type="button" aria-label="Cambiar tema">
+          <span class="pill__dot" aria-hidden="true"></span>
+          <span id="themeLabel">Auto</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Navegación">
+      <div class="sidebar__hero">
+        <div class="hero">
+          <div class="hero__badge">Proyecto DAM · Sostenibilidad</div>
+          <h1 class="hero__h">Una web más clara, bonita y navegable</h1>
+          <p class="hero__p">Navega por apartados, busca términos y usa el índice lateral para moverte rápido.</p>
+          <div class="hero__chips" aria-hidden="true">
+            <span class="chip">Roma</span>
+            <span class="chip">Economía circular</span>
+            <span class="chip">Sector TIC</span>
+          </div>
+        </div>
+      </div>
+
+      <nav class="nav" id="nav"></nav>
+
+      <footer class="sidebar__footer">
+        <div class="muted">Hecho para GitHub Pages · Markdown + HTML</div>
+      </footer>
+    </aside>
+
+    <main class="main" id="content" tabindex="-1">
+      <div class="content" id="page">
+        <div class="skeleton">
+          <div class="skeleton__line"></div>
+          <div class="skeleton__line"></div>
+          <div class="skeleton__line short"></div>
+        </div>
+      </div>
+    </main>
+
+    <aside class="toc" aria-label="Índice de la página">
+      <div class="toc__card">
+        <div class="toc__title">En esta página</div>
+        <div id="toc"></div>
+      </div>
+      <div class="toc__card">
+        <div class="toc__title">Accesos rápidos</div>
+        <div class="quick">
+          <a class="quick__btn" href="#/acciones">Acciones sostenibles</a>
+          <a class="quick__btn" href="#/tic">Sector TIC</a>
+          <a class="quick__btn" href="#/roma">Roma · Visión general</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lightbox__close" id="lightboxClose" aria-label="Cerrar imagen">✕</button>
+    <img class="lightbox__img" id="lightboxImg" alt="" />
+    <div class="lightbox__caption" id="lightboxCaption"></div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true" hidden></div>
+</body>
+</html>
