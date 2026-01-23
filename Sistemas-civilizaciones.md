@@ -2,7 +2,7 @@
 
 ## Índice
 - [Obtención de Materia](RomanosMateriales.md)
-- [Obtención de Energía](RomanosEnergía.md)
+- [Obtención de Energía](RomanosEnergia.md)
 - [Condiciones de vida](RomanosCondiciones.md)
 
 ## Visión general del sistema
