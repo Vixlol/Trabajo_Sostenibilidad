@@ -1,10 +1,5 @@
 # Funcionamiento de Sistemas-Civilizaciones: La Civilización Romana
 
-## Índice
-- [Visión General de la Civilización](Sistemas-civilizaciones.md)
-- [Obtención de Materia](RomanosMateriales.md)
-- [Condiciones de vida](RomanosCondiciones.md)
-
 ## Energía: fuentes y usos
 
 ### **Fuentes principales**

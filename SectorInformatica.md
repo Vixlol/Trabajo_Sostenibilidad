@@ -1,11 +1,5 @@
 # Análisis del sector TIC en relación con los sistemas materiales, el consumo de recursos y la generación de residuos.
 
-## Índice
-- [Sistemas Materiales](#1-sistemas-materiales)
-- [Consumo energético y de recursos](#2-consumo-energético-y-de-recursos-en-el-sector)
-- [Generación de Residuos](#3-generación-de-residuos-e-waste)
-- [Economía circular en el sector TIC](#4-economía-circular-en-el-sector-tic)
-
 ## Introducción
 El sector de la informática y las comunicaciones (TIC) es uno de los más dinámicos y transformadores del mundo actual. Sin embargo, su rápido crecimiento implica un alto consumo de recursos materiales, producción intensiva de componentes electrónicos y una creciente generación de residuos tecnológicos (e-waste).
 Por ello, el enfoque de la economía circular se ha convertido en un eje fundamental para reducir su impacto ambiental.

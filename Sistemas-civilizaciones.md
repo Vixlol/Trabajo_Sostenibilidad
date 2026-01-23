@@ -1,10 +1,5 @@
 # Funcionamiento de Sistemas-Civilizaciones: La Civilización Romana
 
-## Índice
-- [Obtención de Materia](RomanosMateriales.md)
-- [Obtención de Energía](RomanosEnergia.md)
-- [Condiciones de vida](RomanosCondiciones.md)
-
 ## Visión general del sistema
 La civilización romana puede entenderse como un **sistema socioecológico** con entradas, procesos y salidas interconectadas:
 
