@@ -21,7 +21,7 @@
 - <u>Piedra y mármol</u>: canteras locales y transportes marítimos.
 - <u>Concreto romano</u> (opus caementicium): mezcla de cal y pozzolana (ceniza volcánica).
 - <u>Metales</u>: hierro, plomo, plata, oro (minas en Hispania, Britania y Dacia).
-- <u>Madera y carbón vegetal</u>: construcción, combustible y forja.
-- <u>Sal</u>: esencial para conservar alimentos y como bien de cambio.
+- <u>Carbón vegetal</u>: se producía apilando leña en pilas cónicas (hornos de tierra) cubiertas con tierra y ramas, dejando que se carbonizara mediante combustión incompleta durante días.
+- <u>Sal</u>: mediante la evaporación del agua de mar en salinas costeras (como en Ostia) y la minería de sal gema.
 
 ![Concreto Romano](concretoRomano.png)
