@@ -1,4 +1,4 @@
-## ¿Qué es la economía circular?
+# ¿Qué es la economía circular?
 La economía circular es un modelo económico que busca reducir el consumo de recursos naturales y la generación de residuos, manteniendo los productos, materiales y recursos en uso durante el mayor tiempo posible. A diferencia del modelo tradicional lineal, la economía circular promueve reutilizar, reparar, reciclar y compartir, favoreciendo un desarrollo más sostenible y respetuoso con el medio ambiente.
 
 ## Características de la Economia Circular
