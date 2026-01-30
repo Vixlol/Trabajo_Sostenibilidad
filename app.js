@@ -6,7 +6,8 @@ const PAGES = [
     group: 'Proyecto',
     items: [
       { id: 'inicio', label: 'Inicio', file: 'README.md' },
-      { id: 'acciones', label: 'Economía circular', file: 'AccionesSostenibles.md' },
+      { id: 'economia', label: 'Economía circular', file: 'EconomiaCircular.md' },
+      { id: 'acciones', label: 'Acciones sostenibles', file: 'AccionesSostenibles.md' },
       { id: 'tic', label: 'Sector TIC', file: 'SectorInformatica.md' },
     ]
   },
@@ -142,7 +143,7 @@ async function cargarPagina() {
 
 // Genera un índice automático buscando los H2 y H3
 function generarIndice() {
-  const titulos = pageElement.querySelectorAll('h2, h3');
+  const titulos = pageElement.querySelectorAll('h2, h3, h4');
   
   if (titulos.length === 0) {
     tocElement.innerHTML = '<p>Sin índice</p>';
@@ -158,10 +159,14 @@ function generarIndice() {
     link.textContent = titulo.textContent;
     link.className = 'toc-link';
     
-    // Si es H3 lo indentamos un poco visualmente (añadiendo espacios o guión)
+    // Indentación según nivel
     if (titulo.tagName === 'H3') {
       link.textContent = '- ' + link.textContent;
       link.style.paddingLeft = '15px';
+    }
+    if (titulo.tagName === 'H4') {
+      link.textContent = '· ' + link.textContent;
+      link.style.paddingLeft = '28px';
     }
 
     // Al hacer click, que haga scroll suave (opcional)
