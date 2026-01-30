@@ -20,5 +20,7 @@ La civilización romana desarrolló un conjunto de infraestructuras y servicios 
 
 ### **Salud y alimentación**
 - Dieta mediterránea equilibrada (pan, aceite, vino, legumbres).
-- Medicina romana (influencia de Galeno y la tradición griega).
-- Protección militar y administración pública.
+- Medicina romana: remedios herbales, dietas y cirugías (influencia de Galeno).
+- Protección militar y administración pública (garantizaban la seguridad interna lo que contribuía a la estabilidad social).
+
+![Dieta mediterranea](Comida.jpg)
