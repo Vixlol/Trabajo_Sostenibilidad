@@ -29,3 +29,5 @@ Los residuos se consideran una materia prima para nuevos ciclos de producción.
 - **Reducción del impacto ambiental**:
 
 Disminuye la contaminación, las emisiones y la presión sobre los ecosistemas.
+
+![Economía Circular](economiacircular.JPG)
